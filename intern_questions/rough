@@ -1,0 +1,79 @@
+
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+
+}
+.nevigation{
+    font-family: 'Bree serif',serif;
+    font-size: 20px;
+    display: flex;
+}
+/* .item{
+    margin: 29px 31px;
+} */
+/* li{
+    list-style: none;
+    padding: 20px 23px;
+}
+h1{
+   font-size: 4rem;
+    /* justify-content: center;
+}
+p{
+    text-align: center;
+} */
+/* ::before is use  kiyuki ye style ko header se pehle use karba deta hai */
+header::before{
+    background: url('https://source.unsplash.com/collection/190727/1600x900')no-repeat center center/cover;
+    content: "";
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.5;
+
+
+}
+section{
+    /* width: 100%; */
+    font-family: 'Bree serif', serif;
+    
+    margin: 3px 230px;
+    height: 344px;
+    /* padding: 25px 25px; */
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: center;
+    text-align: center; */
+} */
+
+/* body{
+    background-image: url('pic02.jpg'); */
+
+
+    
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul class="nevigation">
+                <li type="none" class="item">Home</li>
+                <li type="none" class="item">Services</li>
+                <li type="none" class="item">About</li>
+                <li type="none" class="item">Contact Us</li>
+            </ul>
+        </nav>
+    </header>
+    
+</body>
+</htm

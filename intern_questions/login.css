@@ -1,0 +1,31 @@
+h2{
+    color: #6a6aff;;
+}
+div{
+    text-align: center;
+    margin: 35px 5px;
+}
+#form{
+    border: 1px solid black;
+    margin:200px 609px ; 
+    width: 290px;
+    height: 290px;
+    align-items: center;
+    background: url('login.webp');
+    color: white;
+}
+input{
+    border-radius: 12px;
+    padding: 4px 7px;
+
+}
+button{
+    border-radius: 12px;
+    padding: 3px 30px;
+    background-color: white;
+    font-weight: bold;
+    border:none ;
+}
+a{
+    color: wheat;
+}
