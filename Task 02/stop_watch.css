@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin: 4rem;
+}
+P{
+    text-align: center;
+    font-size: 80px;    
+}
+div{
+    border: 2px solid black;
+    width: 400px;
+    margin-left: 550px;
+}
+button{
+    text-align: center;
+    align-items: center;
+    margin: 9px 4px;
+    padding: 2px 27px;
+}
